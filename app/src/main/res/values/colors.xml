@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED1F24</color>
+    <color name="colorPrimaryDark">#BD1F24</color>
+    <color name="colorAccent">#1c1c1c</color>
+    <color name="myDefault">#ED1F24</color>
+    <color name="myDefaultDarker">#9C0C10</color>
+    <color name="myDefaultBrighter">#FF0000</color>
+    <color name="myOrange">#EDAF24</color>
+    <color name="myYellow">#EDFF24</color>
+    <color name="myOcean">#33adff</color>
+    <color name="myBlack">#1C1C1C</color>
+    <color name="myWhite">#C0C0C0</color>
+    <color name="myGrey">#909090</color>
+    <color name="myLight">#FFF</color>
+    <color name="myDark">#000</color>
+    <color name="myBlackTrans">#A0000000</color>
+</resources>

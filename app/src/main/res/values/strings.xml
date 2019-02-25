@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">XBug</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_refresh">Refresh</string>
+
+    <string-array name="TYPE_DEBUG">
+        <item> all </item>
+        <item> verbose </item>
+        <item> debug </item>
+        <item> info </item>
+        <item> warning </item>
+        <item> error </item>
+        <item> assert </item>
+        <item> critical </item>
+    </string-array>
+</resources>

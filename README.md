@@ -1,2 +1,2 @@
 # kid-xbug
-Debugger App Plugin
+Error Debugger
