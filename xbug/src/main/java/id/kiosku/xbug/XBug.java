@@ -18,8 +18,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-import id.kiosku.xbug.utilities.DeviceDriver;
-import id.kiosku.xbug.utilities.ScreenDensityReader;
+import id.kiosku.utils.DeviceDriver;
+import id.kiosku.utils.ScreenDensityReader;
 import io.socket.client.IO;
 import io.socket.client.Socket;
 import io.socket.emitter.Emitter;
